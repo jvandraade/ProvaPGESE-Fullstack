@@ -1,0 +1,6 @@
+@DesafioPGESEAPI_HostAddress = http://localhost:5294
+
+GET {{DesafioPGESEAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
